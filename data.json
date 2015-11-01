@@ -1,1 +1,1 @@
-{"name":"Jack"}
+{"book1":{"id":101,"name":"Shadow Thief","year":"2013-12-13T22:00:00.000Z","authors":["Marc Levy"]},"book2":{"id":204,"name":"The Long Earth","year":"2012-07-18T21:00:00.000Z","authors":["Terry Pratchett","Stephen Baxter"]},"book3":{"id":298,"name":"The Sea-Wolf","year":"1970-01-01T00:00:01.904Z","authors":["Jack London"]}}
