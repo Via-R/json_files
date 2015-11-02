@@ -1,0 +1,34 @@
+{
+	"books": [
+		{
+			"title": "The Hunger Games",
+			"pages": 234,
+			"author": "Suzanne Collins "
+		},
+		{
+			"title": "Harry Potter and the Order of the Phoenix",
+			"pages": 311,
+			"author": "J.K. Rowling "
+		},
+		{
+			"title": "To Kill a Mockingbird ",
+			"pages": 400,
+			"author": "Harper Lee "
+		},
+		{
+			"title": "Pride and Prejudice ",
+			"pages": 456,
+			"author": "Jane Austen "
+		},
+		{
+			"title": "Twilight",
+			"pages": 331,
+			"author": "Stephenie Meyer"
+		},
+		{
+			"title": "The Chronicles of Narnia",
+			"pages": 1,
+			"author": "C.S. Lewis"
+		}
+	]
+}
